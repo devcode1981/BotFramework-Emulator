@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.1.5",
-    "botframework-config": "4.4.0",
+    "botframework-config": "4.11.2",
     "botframework-schema": "4.14.0",
     "eslint-plugin-security": "^1.4.0",
     "tslib": "^1.9.0",
